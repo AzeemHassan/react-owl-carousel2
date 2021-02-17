@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/florinn/react-owl-carousel2.git"
+    "url": "git+https://github.com/azeemhassan/react-owl-carousel2fix.git"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
     "gallery"
   ],
   "bugs": {
-    "url": "https://github.com/florinn/react-owl-carousel2/issues"
+    "url": "https://github.com/azeemhassan/react-owl-carousel2fix/issues"
   },
-  "homepage": "https://github.com/florinn/react-owl-carousel2#readme",
+  "homepage": "https://github.com/azeemhassan/react-owl-carousel2fix#readme",
   "peerDependencies": {
     "react": "^15.3.0 || ^16.0.0-0",
     "react-dom": "^15.3.0 || ^16.0.0-0"

@@ -5,7 +5,7 @@
 ## 1.Installation
 
 ```
-npm install react-owl-carousel2
+npm install react-owl-carousel2fix
 ```
 
 ```html
