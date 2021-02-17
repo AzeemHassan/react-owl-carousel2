@@ -1,8 +1,8 @@
 {
   "name": "react-owl-carousel2",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "description": "React.js + Owl Carousel 2",
-  "author": "Florin Nitoi <florin.nitoi@gmail.com>",
+  "author": "Azeem Hassan",
   "license": "ISC",
   "main": "lib/OwlCarousel.js",
   "scripts": {
