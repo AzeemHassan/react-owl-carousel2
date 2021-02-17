@@ -15,7 +15,7 @@ var config = {
 	output: {
 		path: path.join(__dirname, "lib"),
 		filename: "[name].js",
-		library: ["react-owl-carousel2"],
+		library: ["react-owl-carousel2fix"],
 		libraryTarget: "umd"
 	},
 	externals: {
